@@ -1,5 +1,3 @@
-# app/application/cadastrar_comprador.py
-
 from src.domain.comprador import Comprador
 from src.adapters.output.repository.repository import Repository
 
